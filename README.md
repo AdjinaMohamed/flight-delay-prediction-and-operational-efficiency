@@ -1,5 +1,6 @@
 ✈️ Flight Delay Prediction & Operational Efficiency Analysis (2024–2025)
 End-to-end data analytics project: KPIs, Machine Learning, Tableau Dashboard
+
 🎯 Project Overview
 
 This project analyzes flight punctuality and airport operational performance using 2024–2025 flight, traffic, runway, and airport datasets.
@@ -20,6 +21,7 @@ Create a Tableau dashboard for interactive analysis
 This structure mirrors real processes used by aviation analytics teams (airlines & airports).
 
 📁 Repository Structure
+
 data/
 │── raw/               # Original datasets (2024–2025)
 │── processed/         # Cleaned datasets used for modeling
@@ -51,6 +53,7 @@ docs/
 
 reports/
 │── findings.pdf         # Final stakeholder report
+
 
 📊 Analytical Components
 1. Operational KPIs
