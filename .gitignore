@@ -1,0 +1,38 @@
+
+i’ll refine this later after i build the KPIs and dashboard.
+
+---
+
+## 3️⃣ .gitignore
+
+```gitignore
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Data 
+data/raw/*
+data/processed/*
+!data/raw/README.md
+!data/processed/README.md
+
+# Tableau
+*.twb~
+*.tds~
+*.hyper
+*.twbx
